@@ -33,8 +33,6 @@ def validar_password(password):
         return False
 
     return tiene_numero and tiene_letra
-    print("Password ingresada Correctamente.")
-    return True
 
 
 def imprimir_usuario(usuario):
